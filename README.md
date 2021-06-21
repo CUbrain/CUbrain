@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CUbrain
+- 👀 I’m interested in electronic
+- 🌱 I’m currently learning embedded software
